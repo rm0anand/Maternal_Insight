@@ -5,7 +5,7 @@
 Welcome to Maternal Insight, a pioneering platform designed to enhance maternal and fetal health through advanced predictive analytics. MaternaInsight equips healthcare professionals and users with accurate predictions and proactive risk management tools for pregnancy-related health concerns.
 
 ### Webapp URL
-Maternal Insight: [MaternaL Insight link]
+Maternal Insight: [MaternaL Insight link](https://evubq2jtxs2sggostxqgem.streamlit.app/)
 
 ## Key Features
 
