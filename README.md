@@ -32,8 +32,8 @@ Follow these steps to run the Streamlit code locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medpredict.git
-cd medpredict
+git clone https://github.com/your-username/Maternal_Insight.git
+
 ```
 ### Install Dependencies
  ```bash
@@ -43,4 +43,4 @@ cd medpredict
  ```bash
 streamlit run main.py
 ```
-This will launch the Streamlit app locally. Open your web browser and navigate to the provided local address to explore MedPredict.
+This will launch the Streamlit app locally. Open your web browser and navigate to the provided local address to explore Maternal Insight.
