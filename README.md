@@ -1,11 +1,11 @@
-# MaternaInsight - Advanced Maternal and Fetal Health Prediction Platform
+# MaternalInsight - Advanced Maternal and Fetal Health Prediction Platform
 
 ## Introduction
 
-Welcome to MaternaInsight, a pioneering platform designed to enhance maternal and fetal health through advanced predictive analytics. MaternaInsight equips healthcare professionals and users with accurate predictions and proactive risk management tools for pregnancy-related health concerns.
+Welcome to Maternal Insight, a pioneering platform designed to enhance maternal and fetal health through advanced predictive analytics. MaternaInsight equips healthcare professionals and users with accurate predictions and proactive risk management tools for pregnancy-related health concerns.
 
 ### Webapp URL
-Maternal Insight: [MedPredict link]
+Maternal Insight: [MaternaL Insight link]
 
 ## Key Features
 
